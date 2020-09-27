@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lambdatriggerexample-dev-174929-authRole",
+      "UnauthRoleArn": "arn:aws:iam::070468362108:role/amplify-lambdatriggerexample-dev-174929-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::070468362108:role/amplify-lambdatriggerexample-dev-174929-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-lambdatriggerexample-dev-174929-deployment",
+      "UnauthRoleName": "amplify-lambdatriggerexample-dev-174929-unauthRole",
+      "StackName": "amplify-lambdatriggerexample-dev-174929",
+      "StackId": "arn:aws:cloudformation:eu-west-2:070468362108:stack/amplify-lambdatriggerexample-dev-174929/1acb3740-fa98-11ea-91df-064437b396a4",
+      "AmplifyAppId": "d2dhplz0c6dh22"
+    },
+    "categories": {
+      "function": {
+        "lambdatriggerexamplee3d4ff16PostConfirmation": {
+          "GROUP": "Admin"
+        }
+      },
+      "auth": {
+        "lambdatriggerexamplee3d4ff16": {}
+      }
+    }
+  }
+}

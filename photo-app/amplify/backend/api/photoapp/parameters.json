@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "photoapp",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authphotoapp01ecdf46",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

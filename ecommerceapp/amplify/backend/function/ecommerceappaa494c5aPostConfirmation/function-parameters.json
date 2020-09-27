@@ -1,0 +1,16 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "ecommerceappaa494c5a",
+  "functionName": "ecommerceappaa494c5aPostConfirmation",
+  "resourceName": "ecommerceappaa494c5aPostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "/home/zif/.nvm/versions/node/v14.7.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "roleName": "ecommerceappaa494c5aPostConfirmation",
+  "skipEdit": true,
+  "GROUP": "Admin"
+}

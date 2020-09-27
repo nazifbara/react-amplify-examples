@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photoapp-dev-205842-authRole",
+      "UnauthRoleArn": "arn:aws:iam::070468362108:role/amplify-photoapp-dev-205842-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::070468362108:role/amplify-photoapp-dev-205842-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-photoapp-dev-205842-deployment",
+      "UnauthRoleName": "amplify-photoapp-dev-205842-unauthRole",
+      "StackName": "amplify-photoapp-dev-205842",
+      "StackId": "arn:aws:cloudformation:eu-west-2:070468362108:stack/amplify-photoapp-dev-205842/b07737e0-0032-11eb-9394-0296bc619646",
+      "AmplifyAppId": "d2blgn6ezkdxtj"
+    },
+    "categories": {
+      "auth": {
+        "photoapp01ecdf46": {}
+      }
+    }
+  }
+}
